@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Caleio — Privacy Policy</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #0d1117;
+      color: #c9d1d9;
+      line-height: 1.75;
+      padding: 48px 24px 80px;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .brand {
+      font-size: 13px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #1d9e75;
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 8px;
+    }
+
+    .effective {
+      font-size: 13px;
+      color: #6e7681;
+      margin-bottom: 48px;
+    }
+
+    h2 {
+      font-size: 15px;
+      font-weight: 600;
+      color: #ffffff;
+      margin-top: 40px;
+      margin-bottom: 12px;
+    }
+
+    p {
+      font-size: 15px;
+      color: #8b949e;
+      margin-bottom: 16px;
+    }
+
+    ul {
+      padding-left: 20px;
+      margin-bottom: 16px;
+    }
+
+    ul li {
+      font-size: 15px;
+      color: #8b949e;
+      margin-bottom: 6px;
+    }
+
+    a {
+      color: #1d9e75;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .divider {
+      border: none;
+      border-top: 1px solid #21262d;
+      margin: 40px 0;
+    }
+
+    .footer {
+      font-size: 13px;
+      color: #6e7681;
+      margin-top: 48px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <p class="brand">NoorLyfe</p>
+    <h1>Privacy Policy</h1>
+    <p class="effective">Effective Date: June 11, 2026</p>
+
+    <h2>Introduction</h2>
+    <p>This Privacy Policy explains how NoorLyfe handles data in connection with the Caleio mobile application. We are committed to protecting your privacy and comply with the EU General Data Protection Regulation (GDPR), the Danish Data Protection Act, the California Consumer Privacy Act (CCPA/CPRA), CalOPPA, Canada's PIPEDA, Brazil's LGPD, Australia's Privacy Act 1988, and other applicable privacy laws.</p>
+
+    <h2>Data Controller</h2>
+    <p>NoorLyfe<br>
+    Email: <a href="mailto:contact@noorlyfe.com">contact@noorlyfe.com</a><br>
+    Website: <a href="https://www.noorlyfe.com">www.noorlyfe.com</a></p>
+
+    <hr class="divider">
+
+    <h2>What Data We Collect</h2>
+
+    <p><strong style="color:#c9d1d9;">Stored locally on your device only — never transmitted to us:</strong></p>
+    <ul>
+      <li>Daily expense entries and transaction records</li>
+      <li>Financial goals and debt information</li>
+      <li>Custom categories and settings</li>
+      <li>All other content you enter in the App</li>
+    </ul>
+
+    <p><strong style="color:#c9d1d9;">Processed by RevenueCat (subscription management only):</strong></p>
+    <ul>
+      <li>Anonymized Apple ID transaction identifier provided by Apple</li>
+      <li>Subscription and purchase status</li>
+      <li>Device identifiers for subscription validation</li>
+    </ul>
+    <p>RevenueCat does not receive your financial data or any content you enter in the App. See <a href="https://www.revenuecat.com/privacy" target="_blank">revenuecat.com/privacy</a>.</p>
+
+    <p><strong style="color:#c9d1d9;">We do not collect:</strong> Name, email address, bank details, location data, contacts, photos, behavioral analytics, advertising identifiers, or any data for advertising purposes.</p>
+
+    <hr class="divider">
+
+    <h2>Legal Basis for Processing (GDPR — EEA/UK Users)</h2>
+    <p>Subscription transaction data is processed on the basis of contractual necessity (Article 6(1)(b) GDPR), as it is required to deliver the paid features you have purchased.</p>
+
+    <h2>California Residents (CCPA/CPRA)</h2>
+    <p>We do not sell or share your personal information with third parties for cross-context behavioral advertising. California residents have the right to know what personal information is collected, request deletion, and opt out of any sale or sharing of personal information. As we do not sell or share personal data, no opt-out mechanism is required. To exercise your rights, contact us at <a href="mailto:contact@noorlyfe.com">contact@noorlyfe.com</a>.</p>
+
+    <h2>Canadian Users (PIPEDA)</h2>
+    <p>We collect only the minimum personal data necessary for the App to function and for subscription management. You may withdraw consent at any time by contacting us, subject to legal or contractual restrictions.</p>
+
+    <h2>Brazilian Users (LGPD)</h2>
+    <p>We process personal data in accordance with Brazil's Lei Geral de Proteção de Dados. You have the right to confirm whether your data is processed, access your data, correct inaccurate data, anonymize or delete data, and obtain information about third parties with whom data is shared. Contact us at <a href="mailto:contact@noorlyfe.com">contact@noorlyfe.com</a> to exercise these rights.</p>
+
+    <h2>Australian Users (Privacy Act 1988)</h2>
+    <p>We handle personal information in accordance with the Australian Privacy Principles. You may request access to or correction of your personal information by contacting us.</p>
+
+    <hr class="divider">
+
+    <h2>Data Retention</h2>
+    <p>All app data is stored on your device for as long as you keep the App installed. Uninstalling the App removes all locally stored data. RevenueCat retains subscription transaction data per their own retention policy.</p>
+
+    <h2>Data Sharing and Disclosure</h2>
+    <p>We do not sell, rent, or share your personal data for marketing or advertising. We may disclose information only to comply with a legal obligation, protect the rights or safety of NoorLyfe or users, or in connection with a business transfer (with prior notice to users).</p>
+
+    <h2>Your Rights</h2>
+    <p>Depending on your jurisdiction, you may have the right to access, rectify, erase, restrict, or port your personal data, and to object to processing. To exercise any right, contact <a href="mailto:contact@noorlyfe.com">contact@noorlyfe.com</a>. We respond within 30 days.</p>
+    <ul>
+      <li>EU/EEA users may file a complaint with <a href="https://www.datatilsynet.dk" target="_blank">Datatilsynet</a></li>
+      <li>UK users may contact the <a href="https://ico.org.uk" target="_blank">ICO</a></li>
+      <li>Australian users may contact the <a href="https://www.oaic.gov.au" target="_blank">OAIC</a></li>
+    </ul>
+
+    <h2>Children's Privacy</h2>
+    <p>The App is not directed at children under 13. We do not knowingly collect personal data from children under 13. If you believe a child under 13 has used the App, contact us at <a href="mailto:contact@noorlyfe.com">contact@noorlyfe.com</a> and we will take steps to delete any such data.</p>
+
+    <h2>Security</h2>
+    <p>Your financial data never leaves your device. Its security depends on your iOS device's own encryption and passcode protection. We take reasonable technical measures to protect any data processed via RevenueCat.</p>
+
+    <h2>International Data Transfers</h2>
+    <p>RevenueCat may process subscription data outside your country of residence. Such transfers are conducted in accordance with applicable data protection law, including GDPR standard contractual clauses where required.</p>
+
+    <h2>Changes</h2>
+    <p>We may update this Policy. Significant changes will be communicated via in-app notification. The effective date at the top reflects the latest version.</p>
+
+    <hr class="divider">
+
+    <div class="footer">
+      <p>NoorLyfe &nbsp;·&nbsp; <a href="mailto:contact@noorlyfe.com">contact@noorlyfe.com</a> &nbsp;·&nbsp; <a href="https://www.noorlyfe.com">www.noorlyfe.com</a></p>
+    </div>
+
+  </div>
+</body>
+</html>
